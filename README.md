@@ -1,7 +1,3 @@
-Here’s a **clean, professional README.md** you can directly copy and use on GitHub for your **Basic ML – Regression (Gym & Diet Project)** 👇
-
----
-
 # 🏋️‍♂️ Basic Machine Learning – Regression Project (Gym & Diet Analysis)
 
 ## 📌 Project Overview
