@@ -109,20 +109,4 @@ Basic ML Regression.ipynb
 * Add more advanced regression models
 * Improve dataset size and diversity
 * Create a simple web interface
-* Add classification models
-
----
-
-## 🧑‍💻 Author
-
-**Jagadeep**
-Beginner ML Enthusiast | Data Science Learner
-
----
-
-If you want, I can also:
-
-* 🔥 Make it **shorter**
-* 🎓 Make it **college-project style**
-* 💼 Make it **resume/portfolio-ready**
-* 🧠 Customize it exactly to your notebook content
+* Add classification model
